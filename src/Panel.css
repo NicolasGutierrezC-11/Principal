@@ -1,0 +1,14 @@
+#NombreTab{
+    color: rgb(255, 255, 255);
+    left: 120px;
+}
+#input-with-icon-textfield{
+    color:rgb(255, 255, 255);
+}
+
+#FotoPrincipal{
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    left: 78rem;
+}

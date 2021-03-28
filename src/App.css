@@ -1,0 +1,30 @@
+
+.contenedor{
+  position: relative;
+  display: inline-block;
+  text-align: center;
+}
+
+
+.Trazado{
+  width: 49.6rem;
+  left: -1rem;
+  top: -2rem;
+  position: absolute;
+}
+
+.FotoUsuario{
+  position: absolute;
+  width: 48px;
+  left: 2px;
+ 
+  
+}
+
+#BotonPrincipal{
+  border-radius: 50px;
+  position: absolute;
+  top: 8px;
+  left: 70px;
+  width: 13rem;
+}
